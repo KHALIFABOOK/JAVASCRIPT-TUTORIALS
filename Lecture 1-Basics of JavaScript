@@ -27,3 +27,12 @@ Number datatype  are [1,5,4854546464,64.6453135153465,5341351354531,534.53453164
 that are enclosed in double quotes or single quotes. Examples of string datatype are ["hello i m vinay morey","i love programming","a",
 "james bar is a really good movie"," i like to meet new people"," what is your name"].
 -------------------------------------------------------------------------------------------------------------------------------------------
+(C) WHAT ARE FUNCTIONS IN JavaScript ? 
+At basic level , we can consider JavaScript functions as robots. Robots are the machines that are made to do a specific task. So today we have 
+robots to make machines , robots to make food, robots to cut trees, robots to do a specific task. JavaScript functions are like 
+robots that are designed to do a particular job. 
+
+
+Now lets look at document.write() function. This function is used in Javascript to print the given input value on the Html webpage.
+we give input value in the () of document.write() function. and then the document.write() function do some computation on the given input 
+and gives us some output.
