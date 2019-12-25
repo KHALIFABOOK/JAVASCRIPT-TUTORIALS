@@ -2,4 +2,28 @@ Javascript is a programming language that can be used to build websites frontend
 In frontend web devlopment we use javascript code inside our html code. The Javascript code starts with <script> tag and end with 
 </script>. This tutorials will teach you bascis of javascript. 
 -------------------------------------------------------------------------------------------------------------------------------------------
+(A) JAVASCRIPT IS A CASE SENSITIVE LANGUAGE.
+Upper case letters means capital letters like [A,B,F,G,R,C,H,F,D,DF,FDDDD,FGF] and 
+Lower  case letters means small  letters like [f,t,e,a,b,c,r,hyh,hh,fff,tgyyfgfhght,grgryeerhr,jyujyi7yr,serr,rstgry,rgrg]. JAVASCRIPT
+is case sensitive means if the uppercase and lowercase characters are differnt of same word, it means that,
+that same word is not equal. For example [KHALIFA] is not equal to [khalifa] , [MANGO] is not equal to [MANgo] , 
+[ocean] is not equal to [Ocean] , [VINAY] is not equal to [ViNaY].
+-------------------------------------------------------------------------------------------------------------------------------------------
+(B) WHAT ARE DATA TYPES IN JavaSript ?
+First we will try to understand what is data type in programming languages. Data means things , data types means the type of things. 
+In  our real world we have some many types of food like mango, onion, strawberry, pineapple, whine, cucumber, icecream falvours like 
+vanilla,chocolate, butterskotch,meat, fish , eggs, chicken. But we humans categorised the food into food types like veg food, nonveg food,
+fruits, drinks,icereams,etc. So we humans has categorised the food items into food types like veg,nonveg,fruits,drinks,icereams. 
+Now in same way the computers has made the categories of things or data  to understand properly.So in computers we type things like numbers
+(1,8,5,6,5,5), so some text like(hello, hey bro how are you). So we are giving computer data like number or sentence , the computer 
+understand this data like numbers or sentences by their data types. 
+There are many data types in JavaScript but here at beginning we need to know only 2 data types.  
 
+(1)Number- Number is a datatype in JavaScript which has any values or data like numbers with or without decimal point. Examples of 
+Number datatype  are [1,5,4854546464,64.6453135153465,5341351354531,534.5345316415312015345342135453453,53453135453153,1534153,41534,
+531,3513541,3.51,3.51,531,45.3535344].
+
+(3)string- string is a datatype in JavaScript and these has data like any text, or alphabet, sentence, or number 
+that are enclosed in double quotes or single quotes. Examples of string datatype are ["hello i m vinay morey","i love programming","a",
+"james bar is a really good movie"," i like to meet new people"," what is your name"].
+-------------------------------------------------------------------------------------------------------------------------------------------
