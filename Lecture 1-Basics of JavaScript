@@ -36,3 +36,36 @@ robots that are designed to do a particular job.
 Now lets look at document.write() function. This function is used in Javascript to print the given input value on the Html webpage.
 we give input value in the () of document.write() function. and then the document.write() function do some computation on the given input 
 and gives us some output.
+
+JAVASCRIPT PROGRAMMS THAT USE document.write() FUNCTION-----------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
+(1) Write a Javascript program to print "Hello world" on the screen ?
+#  document.write("Hello world")
+----------------------------------------------------------------------------------------------------------------------------------------
+(2) Write a Javascript program to print " khalifa book is the best learning app" on the screen?
+#  document.write(" khalifa book is the best learning app")
+----------------------------------------------------------------------------------------------------------------------------------------
+(3) Write a Javascript program to print "Hello students you are going to be a great programmers" on the screen ?
+#  document.write("Hello students you are going to be a great programmers")
+----------------------------------------------------------------------------------------------------------------------------------------
+(4) Write a javascript program to print "i live in india and dubai and goa" on the screen ?
+#  document.write("i live in india and dubai and goa")
+----------------------------------------------------------------------------------------------------------------------------------------
+(5) Write a javascript program to print "i like python programming " on the screen ?
+#  document.write("i like javascript programming ")
+----------------------------------------------------------------------------------------------------------------------------------------
+(6) Write a javascript program to add two numbers 5 and 10 ?
+#  document.write(5+10)
+----------------------------------------------------------------------------------------------------------------------------------------
+(7) Write a Javascript program to multiply  two numbers 22 and 10  ?
+#  document.write(22*10)
+----------------------------------------------------------------------------------------------------------------------------------------
+(8) Write a Javascript program to substract of two numbers 100 and 50?
+#  document.write(100-50)
+----------------------------------------------------------------------------------------------------------------------------------------
+(9) Write a Javascript program to  add any three numbers ?
+# document.write(55+10+85)
+----------------------------------------------------------------------------------------------------------------------------------------
+(10) Write a Javascript program to print "my weight is 100pounds" on the screen ?
+#  document.write("my weight is 100pounds")
+----------------------------------------------------------------------------------------------------------------------------------------
